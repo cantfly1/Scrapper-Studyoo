@@ -18,7 +18,7 @@ Le script utilise les bibliothèques suivantes :
 
 Le script recherchera des images pour une requête spécifiée, les téléchargera dans le répertoire spécifié et les téléchargera sur Google Drive. Vous pouvez modifier la requête, le nombre d'images à télécharger et d'autres paramètres en modifiant l'appel de la fonction `duckduckgo_search()` dans le script.
 
-Notez que vous devez avoir les identifiants API nécessaires configurés pour vous authentifier auprès de Google Drive. Pour plus d'informations sur la configuration des identifiants API, veuillez vous référer à la [documentation de l'API Google Drive](https://developers.google.com/drive/api/v3/quickstart/python).
+Notez que vous devez avoir les identifiants API nécessaires configurés pour vous authentifier auprès de Google Drive. Pour plus d'informations sur la configuration des identifiants API, veuillez vous référer à la [documentation de l'API Google Drive](https://d35mpxyw7m7k7g.cloudfront.net/bigdata_1/Get+Authentication+for+Google+Service+API+.pdf).
 
 ### Licence
 
